@@ -1,0 +1,73 @@
+/*Orchard-Section*/
+
+
+.navbar navbar-expand-md bg-light{
+}
+
+body {
+    
+}
+
+/* background image of Homepage */
+.homebkgd{
+    background-image: url("./images/office1.jpg");
+    height: 100vh;
+}
+
+
+/* background image of Contact */
+.contactbkgd{
+    background-image: url("./images/boardmtg.jpg");
+    height: 100vh;
+}
+
+
+.nav-class{
+    color: green;
+    }
+
+
+
+.page-title{
+    background-color:blue;
+}
+
+.welcome-text{
+    background-color: aliceblue;
+}
+
+.c-text{
+    color:rgb(17, 5, 5);
+    background-color: rgb(255, 196, 0);
+}
+
+.m-text{
+    color:black;
+    background-color: aqua;
+}
+
+.social{
+    background-color: pink;
+}
+
+
+
+
+
+
+/*End Homepage*/
+
+
+/* About-Section */
+
+.about-text{
+    background-color: aqua;
+}
+/**
+.f-text{
+   height:40px;
+    text-align: right;
+    background-color: rgb(15, 241, 15);
+    font-weight: bold;
+}
+**/
