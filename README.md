@@ -19,7 +19,8 @@ I set out the layout of my website using Bootstrap 5. I defined the rows horizon
 -Add soial media links on all my pages
 -Use Bootstrap's navbar.
 -Use bootstrap's buttons as needed for various elements on my web pages.
--Use boostrap to style my headings
+-Use boostrap to style my headings, texts. buttons
+-Adds one additional CSS library besides bootstrap (Use animate.css on all mt 3 pages)
 
 
 ## Assets
@@ -29,24 +30,9 @@ I set out the layout of my website using Bootstrap 5. I defined the rows horizon
 -Add a contact form on the contact page. (not a requirement).
 -Mine is a personal business webite designed in the user experience class.
 
-## Challenge
--I could not use Bootstrap to do my bodyground image.
--I skip links of learing Bootstrap
-- Adding social media links to the buttons.
-
-## Assets that I used and sources
-
--[name of Asset](link)
-
-
-Elementor
-Theme
-WP(Work together)
-*-To build your page use & to drag
-*-To edit header & footer your need the theme.
-
-
-## 
+## Challenges
+-Since i am new to boostrap, I had to do a lot of studypng to be able to do thid Prolect
+-I tried but i could not use Bootstrap add bodyground images to 2 of my pages with boostrap. I added the background images through my trasional mian.css instead/
 
 
 
