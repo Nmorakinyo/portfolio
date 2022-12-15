@@ -21,6 +21,7 @@ I set out the layout of my website using Bootstrap 5. I defined the rows horizon
 -Use bootstrap's buttons as needed for various elements on my web pages.
 -Use boostrap to style my headings, texts. buttons
 -Adds one additional CSS library besides bootstrap (Use animate.css on all mt 3 pages)
+-creates a form that senda email
 
 
 ## Assets
