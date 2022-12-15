@@ -18,7 +18,7 @@
 
  
 <body class="contactbkgd">
-  
+
   <header>
     
     <nav class="navbar navbar-expand-md bg-success">
@@ -109,20 +109,37 @@
    </p>
 
    <br><br>
-   <h3 class="text-danger fw-bold"> Send us an Email</h3>
+   <h3 class="text-danger fw-bold welcome-text"> Send us an Email</h3>
 
    <!-- Send us an email -->
 <form action="mailto:mora0247@algonquinlive.com"
 method="POST"
 enctype="multipart/form-data"
 name="EmailForm">
+<!--
    <p class="text-danger fw-bold" > Name: </p>
+-->
+   <button type="button" class="btn btn-light">Name:</button>
+
     <input type="text" size="30" name="Contact-Name"><br><br>
-    <p class="text-danger fw-bold">Email:</p>
+
+    <!--
+   <p class="text-danger fw-bold" > Email: </p>
+-->
+   <button type="button" class="btn btn-light">Email:</button>
+
+
     <input type="email"size="30" name="Contact-Email"><br><br> 
-    <p class="text-danger fw-bold"> Message:</p> 
+
+
+      <!--
+   <p class="text-danger fw-bold" > Message:</p>
+-->
+   <button type="button" class="btn btn-light">Message:</button>
+
     <textarea name="Contact-Message" rows="6″ cols="40″>
     </textarea><br><br> 
+
     <button type="submit" value="Submit">Send</button>
 </form>  
 </div>
