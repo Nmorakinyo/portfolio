@@ -23,18 +23,20 @@ I set out the layout of my website using Bootstrap 5. I defined the rows horizon
 -Adds one additional CSS library besides bootstrap (Use animate.css on all mt 3 pages)
 -creates a form that senda email
 
+## Challenges
+Since I am new to boostrap, I had to do a lot of studypng to be able to do this Project. I also did a lot of searching to add Font Awesome Icons, CSS libraries and so on.
+
 
 ## Assets
--The assets I used that are not mine include:
--Images
--HTML Form that sends you an e-mail.
--Add a contact form on the contact page. (not a requirement).
--Mine is a personal business webite designed in the user experience class.
+The assets that I used include:
+-[Bootsstrap](https://getbootstrap.com/)
+-[Animate CSS](https://animate.style/)
+-[Font Awesome Icons](https://fontawesome.com/)
+-[HTML Form that sends you an e-mail](https://blog.getform.io/how-to-create-an-html-form-that-sends-you-an-email/)
+-[Office image - background image of my homepage](https://www.google.ca/imghp?hl=en&ogbl)
+-[Boardroom image - background image of my contact page](https://www.google.ca/imghp?hl=en&ogbl)
 
-## Challenges
--Since i am new to boostrap, I had to do a lot of studypng to be able to do thid Prolect
--I tried but i could not use Bootstrap add bodyground images to 2 of my pages with boostrap. I added the background images through my trasional mian.css instead/
-
+The Orchard Digital Productions image that I use on my homepage is my personal image from user Experience course.
 
 
 
